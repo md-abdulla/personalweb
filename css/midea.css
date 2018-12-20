@@ -1,0 +1,70 @@
+@media(max-width: 1199px) {}
+
+@media(max-width: 991px) {
+    .arro {
+        left: 80%;
+    }
+}
+
+@media(max-width: 767px) {
+    .arro {
+        left: 80%;
+    }
+    .gettouch{
+       width: 400px !important;
+      }
+      #home{
+            width: 742px;
+      }
+      #about{
+            width: 742px;
+      }
+      #skill{
+        width: 742px;
+      }
+      #project{
+        width: 742px;
+      }
+      #contact{
+        width: 742px;
+      }
+      #carouselExampleFade{
+        width: 290px;
+      }
+      #carouselExampleFade img {
+        width: 290px !important;
+      }
+      .footer{
+            width: 742px;
+      }
+}
+
+@media(max-width: 575px) {
+      .gettouch{
+       width: 300px !important;
+      }
+      #home{
+            width: 548px;
+      }
+      #about{
+            width: 548px;
+      }
+      #skill{
+        width: 548px;
+      }
+      #project{
+        width: 548px;
+      }
+      #contact{
+        width: 548px;
+      }
+      #carouselExampleFade{
+        width: 290px;
+      }
+      #carouselExampleFade img {
+        width: 290px !important;
+      }
+      .footer{
+            width: 548px;
+      }
+}
